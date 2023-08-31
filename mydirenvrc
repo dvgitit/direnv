@@ -1,0 +1,7 @@
+# shellcheck shell=bash
+
+REQUIRED_DIRENV_VERSION="2.21.3"
+
+my_direnv_version() {
+  echo "1.0.0"
+}
